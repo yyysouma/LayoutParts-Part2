@@ -1,2 +1,22 @@
 @charset "UTF-8";
 
+p {
+    height: 500px;
+    background-image: url("../../image/coffee-background.jpg");
+}
+
+.pic2 {
+    background-repeat: no-repeat;
+}
+
+.pic3 {
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.pic4 {
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+}
